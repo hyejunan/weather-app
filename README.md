@@ -7,7 +7,7 @@ Learning React Native by building a weather app
 * [Link](#link)
 
 ## Introduction
-This project is a simple weather app. 
+This project is a simple weather app using Openweather API. 
 	
 ## Technologies
 Project is created with:
